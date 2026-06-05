@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+    <color name="unibratv_yellow">#FFFFD700</color>
+    <color name="unibratv_black">#FF000000</color>
+    <color name="SelectedColor">#FFFFD700</color>
+    <color name="FocusColor">#FFFFD700</color>
+    <color name="HomeButtonFocus">#FFFFD700</color>
+</colors>
