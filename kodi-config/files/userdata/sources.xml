@@ -1,0 +1,13 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>UniBraTV - Repositório</name>
+            <path>https://skyrisk.github.io/brazucaplay/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+</sources>
